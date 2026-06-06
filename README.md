@@ -9,7 +9,7 @@ A full-stack bus ticketing web application built for Bangladesh, featuring real-
 ## 🖥️ Screenshots
 
 ### Home Page
-![BusBD Home](screenshots/busbd_home.png)
+![BusBD Home](BusBD_screenshots/busbd_home.png)
 
 ### Book Ticket
 ![BusBD Booking](BusBD_screenshots/busbd_booking.png)
@@ -18,10 +18,10 @@ A full-stack bus ticketing web application built for Bangladesh, featuring real-
 ![BusBD Tracking](screenshots/busbd_tracking.png)
 
 ### Dynamic Pricing
-![BusBD Pricing](screenshots/busbd_pricing.png)
+![BusBD Pricing](BusBD_screenshots/busbd_pricing.png)
 
 ### Smart Routes
-![BusBD Routes](screenshots/busbd_routes.png)
+![BusBD Routes](BusBD_screenshots/busbd_routes.png)
 
 ---
 
