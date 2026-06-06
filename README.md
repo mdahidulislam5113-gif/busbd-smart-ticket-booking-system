@@ -12,7 +12,7 @@ A full-stack bus ticketing web application built for Bangladesh, featuring real-
 ![BusBD Home](screenshots/busbd_home.png)
 
 ### Book Ticket
-![BusBD Booking](screenshots/busbd_booking.png)
+![BusBD Booking](BusBD_screenshots/busbd_booking.png)
 
 ### Real-time Bus Tracking
 ![BusBD Tracking](screenshots/busbd_tracking.png)
